@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-18T17:43:06 IST" name="Default suite" finished-at="2020-01-18T17:43:16 IST" duration-ms="10019">
+    <groups>
+    </groups>
+    <test started-at="2020-01-18T17:43:06 IST" name="Default test" finished-at="2020-01-18T17:43:16 IST" duration-ms="10019">
+      <class name="appiumtests.appiumtests.TestLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:appiumtests.appiumtests.TestLogin@30b7c004]" started-at="2020-01-18T17:42:59 IST" name="setUp" finished-at="2020-01-18T17:43:06 IST" duration-ms="6884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="f()[pri:0, instance:appiumtests.appiumtests.TestLogin@30b7c004]" started-at="2020-01-18T17:43:06 IST" name="f" finished-at="2020-01-18T17:43:16 IST" duration-ms="10003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="End()[pri:0, instance:appiumtests.appiumtests.TestLogin@30b7c004]" started-at="2020-01-18T17:43:16 IST" name="End" finished-at="2020-01-18T17:43:16 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- appiumtests.appiumtests.TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
